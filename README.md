@@ -5,7 +5,7 @@ Here, I analyzed the data of vacation rental properties on VRBO to determine wha
 Firstly, I used Twitter-roBERTa-base transformers to label the positivity of comments. It was found that properties with good reviews had over 80% of their reviews labeled as positive, while properties with poor reviews had over 50% of their reviews labeled as negative.
 
 
-<img src="https://user-images.githubusercontent.com/79394001/230203398-2f726c8c-c0dc-476f-a6ff-4ecf7b0a49a5.png" width="100">
+<img src="https://user-images.githubusercontent.com/79394001/230203398-2f726c8c-c0dc-476f-a6ff-4ecf7b0a49a5.png" width="500">
 
 
 ## LDA model
