@@ -13,7 +13,10 @@ Firstly, I used Twitter-roBERTa-base transformers to label the positivity of com
 
 
 ## **LDA model**
-Furthermore, I built an LDA model using the reviews labeled as negative from the low-rated properties to determine the topics that these reviews are comprised of
+Furthermore, I built an LDA model using the reviews labeled as negative from the low-rated properties to determine the topics that these reviews are comprised of.
+It might be hard to label the name for each topic. However, we can describe in topic number 0, there are “dirty”, “services”, “room” which represent this topic. Moreover, in topic number 1, there are “dirty”, “property”, “hot”. Furthermore, in topic 3, there are "door", "lock", "never".
+
+From these topics, it might be possible to interpret that rooms and properties are dirty, or broken and these facts might lead to the negative reviews.
 
 #### The word cloud of the data used in the LDA model
 
