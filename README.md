@@ -1,7 +1,7 @@
-# Overview
+# **Overview**
 Here, I analyzed the data of vacation rental properties on VRBO to determine what factors may be contributing to low ratings for certain properties.
 
-## Sentiment Analysis
+## **Sentiment Analysis**
 Firstly, I used Twitter-roBERTa-base transformers to label the positivity of comments. It was found that properties with good reviews had over 80% of their reviews labeled as positive, while properties with poor reviews had over 50% of their reviews labeled as negative.
 
 
@@ -10,10 +10,14 @@ Firstly, I used Twitter-roBERTa-base transformers to label the positivity of com
 | <img src="https://user-images.githubusercontent.com/79394001/230203403-3bad1297-1b7e-4d46-8380-549e1b6fc36d.png" width="500"> | <img src="https://user-images.githubusercontent.com/79394001/230203407-833fa149-4a51-4210-9175-8558094e43ce.png" width="500"> |
 
 
-## LDA model
+## **LDA model**
 Furthermore, I built an LDA model using the reviews labeled as negative from the low-rated properties to determine the topics that these reviews are comprised of
 
+#### The word cloud of the data used in the LDA model
+
 <img src="https://user-images.githubusercontent.com/79394001/230203463-6d1fd2d5-cfe0-4fc6-9273-70d628650937.png" width="500">
+
+#### The result of the LDA model
 
 | Topic Num | Words |
 | --- | --- |
