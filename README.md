@@ -7,9 +7,7 @@ Firstly, I used Twitter-roBERTa-base transformers to label the positivity of com
 
 <img src="https://user-images.githubusercontent.com/79394001/230203398-2f726c8c-c0dc-476f-a6ff-4ecf7b0a49a5.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/79394001/230203403-3bad1297-1b7e-4d46-8380-549e1b6fc36d.png" width="500">
-
-<img src="https://user-images.githubusercontent.com/79394001/230203407-833fa149-4a51-4210-9175-8558094e43ce.png" width="500">
+| <img src="https://user-images.githubusercontent.com/79394001/230203403-3bad1297-1b7e-4d46-8380-549e1b6fc36d.png" width="500"> | <img src="https://user-images.githubusercontent.com/79394001/230203407-833fa149-4a51-4210-9175-8558094e43ce.png" width="500"> |
 
 
 ## LDA model
